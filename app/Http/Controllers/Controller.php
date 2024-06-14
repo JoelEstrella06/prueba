@@ -6,6 +6,6 @@ abstract class Controller
 {
     public function home()
     {
-        dd('prueba desde trabajo :3');
+        dd('prueba desde trabajo ');
     }
 }
